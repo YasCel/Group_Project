@@ -1,0 +1,44 @@
+body {
+  font-family: sans-serif;
+}
+
+.jumbotron_masthead {
+  background-color: black;
+  text-align: center;
+}
+
+h1 {
+  font-size: 75px;
+  color: white;
+}
+
+h2 {
+  color: #CCCCCC;
+}
+
+p {
+  font-size: 12px;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 10px;
+}
+
+li {
+    display: inline;
+    margin: 10px 10px;
+}
+
+.masthead-links a:link, a:visited {
+    width: 200px;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 25px;
+    text-decoration: none;
+
+
+}
